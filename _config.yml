@@ -53,3 +53,4 @@ redcarpet:
         'tables',
         'hardwrap'
     ]
+timezone: Pacific/Auckland
