@@ -7,6 +7,7 @@ image: '2016-05-12-Isolation/'
 # Isolation
 
 #### DIY Bio Potato Dextrose Agar  
+![Agar pour]({{site.baseurl}}{{site.imageurl}}{{page.image}}IMG_20170301_145332.jpg)  
 
 _Ingredients for 250mL:_   
 
