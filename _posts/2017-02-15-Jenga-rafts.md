@@ -23,7 +23,7 @@ _They need to be able to fit in:_
  ![Jenga Stacks]({{site.baseurl}}{{site.imageurl}}{{page.image}}IMG_20170215_142455.jpg)  
  Thinking that the glue would fail and the ply might delaminate we also tied the stacks together with string.  
  ![Stacks secured]({{site.baseurl}}{{site.imageurl}}{{page.image}}IMG_20170215_145523.jpg)  
- ![Dry weight]({{site.baseurl}}{{site.imageurl}}{{post.image}}{{page.image}}IMG_20170215_150631.jpg)  
+ ![Dry weight]({{site.baseurl}}{{site.imageurl}}{{page.image}}IMG_20170215_150631.jpg)  
  Next we put the Jenga stacks in a bucket of warm water... and remembered that timber floats.....  
  ![oh no the jenga stacks float]({{site.baseurl}}{{site.imageurl}}{{page.image}}IMG_20170215_150121.jpg)  
  We submerged the 'Jenga raft' by stacking more poplar scraps on top and weighing it down.
