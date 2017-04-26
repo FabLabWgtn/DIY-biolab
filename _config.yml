@@ -19,8 +19,8 @@ codeurl: 'http://fablabwgtn.github.io/DIY-biolab/'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['docs', 'Documentation'],
-    ['oys', 'Oyster Mushrooms'],
+    ['docs', 'Making your media'],
+    ['oys', 'Experiments'],
     ['post', 'Posts']
 ]
 

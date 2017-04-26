@@ -6,7 +6,7 @@ image: '2017-02-15-Jenga/'
 
 # Jenga Rafts
 
-#### Making 'growing media' from poplar offcuts
+#### Making 'growing media' from poplar plywood offcuts
 
 This week we turned some of the scrap poplar ply hanging around Fab Lab Wgtn into useful growing media.  
 We cut the scraps down to lengths ~120mm and stacked them up 4-5 layers high.   
