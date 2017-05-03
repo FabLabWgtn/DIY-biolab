@@ -1,6 +1,6 @@
 ---
 layout: default
-categories: post
+categories: oys
 image: '2017-02-15-Jenga/'
 ---
 
