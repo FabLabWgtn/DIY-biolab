@@ -7,7 +7,7 @@ image: '2017-03-01-Sawdust-media/'
 # Sawdust mix
 
 #### Making 'growing media' from sawdust  
-![hero shot]({{site.baseurl}}{{site.imageurl}}{{page.image}}IMG_xxxx.jpg)
+![hero shot]({{site.baseurl}}{{site.imageurl}}{{page.image}}20170215_153858.jpg)
 
 _Equipment:_   
 
