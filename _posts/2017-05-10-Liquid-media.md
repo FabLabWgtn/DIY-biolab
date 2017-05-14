@@ -7,15 +7,15 @@ image: '2017-05-10-Liquid/'
 # Liquid Media
 ![Liquid Media]({{site.baseurl}}{{site.imageurl}}{{page.image}}IMG_20170503_170537.jpg)
 
-_Ingredients for 1L (4 jars):_
+_Ingredients for 1L (8 jars):_
 
 - 1L boiling water
 - 30g liquid malt extract
-- 1g tablespoon of sawdust  
+- 1g of sawdust (about a tablespoon)   
 
 _Equipment:_
 
- - 4x 330-400g glass jars with metal lids
+ - 8x 330-400g glass jars with metal lids (eg. jam jars)  
  - tinfoil
  - pyrex jug
  - pressure cooker
@@ -23,12 +23,15 @@ _Equipment:_
 
 #### Method:
 
-Weigh out dry ingredients into pyrex jug, add tap water to 500mL.
+Weigh out dry ingredients into pyrex jug, add boiling water to 1L.
 
-Mix till combined then pour 250ml into each jar.
+Mix till combined then pour 125ml into each jar.
 
-Wrap jar lids in tin foil and mark with autoclave tape.
+Loosely fit metal lids to jars.  
 
-[Sterilise]({{ site.baseurl }}/docs/Sterilisation.html) using the pressure cooker method.
-Cool to room temperature before using.  
-Store wrapped at 4 degrees celsius for up to a week.  
+Wrap lids in tin foil and mark with autoclave tape.
+
+[Sterilise]({{ site.baseurl }}/docs/Sterilisation.html) using the pressure cooker method.  
+Cool to room temperature before using.   
+
+`It might be possible to store jars at 4 degrees celsius for up to a week. But we haven't tested it yet`
