@@ -1,7 +1,8 @@
 ---
 layout: default
-categories: docs
+categories: media
 image: '2017-05-03-Grain/'
+navorder: '01'
 ---
 
 # Grain Spawn

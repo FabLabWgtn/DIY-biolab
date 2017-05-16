@@ -1,7 +1,8 @@
 ---
 layout: default
-categories: docs
+categories: media
 image: '2016-05-12-Isolation/'
+navorder: '02'
 ---
 
 # DIY Bio Potato Dextrose Agar  

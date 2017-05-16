@@ -1,18 +1,30 @@
+{% comment %}
+List categories and posts in order.
+    Loops through the sections listed in _config.yml
+    Sorts the posts baised on the active section and their navorder value
+    Displays them in a list
+
+There is probably a more eligant way to implement this with liquid
+If you know what it is please open an issue or throw up a pull request
+{% endcomment %}
+
+{% assign loop_count = 0 %}
 <ul class="nav nav-list">
     <li><a href="{{ site.baseurl }}/">Home</a></li>
-    {% for section in site.sections %}
-        {% assign attr = section[0] %}
-        {% assign label = section[1] %}
-            <li class="nav-header">{{ label }}</li>
-        {% for page in site.categories[attr] %}
-            {% comment %}
-               {% if forloop.first %}
-                    <li class="nav-header">{{ label }}</li>
-                {% endif %}
-            {% endcomment %}
-            <li data-order="{{ page.order }}"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+{% for section in site.sections %}
+    {% assign active_cat = site.sections[loop_count][0] %}
+    {% assign sorted_posts = site.categories[active_cat] | sort: 'navorder' %}
+
+    <li class="nav-header" id="{{section[0] | uri_escape | downcase }}">{{site.sections[loop_count][1] | capitalize}}</li>
+
+        {% for post in sorted_posts %}
+
+            <li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{  post.title }}</a></li>
+
         {% endfor %}
-    {% endfor %}
-<!-- List additional links. It is recommended to add a divider
-    e.g. <li class="divider"></li> first to break up the content. -->
+  {% assign loop_count = loop_count | plus: 1 %}
+{% endfor %}
+<li class="nav-header" id="notebook">Lab notebook</li>
+<li><a href="{{ site.url }}{{ site.baseurl }}/#">Coming soon</a></li>
+
 </ul>

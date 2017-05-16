@@ -1,7 +1,8 @@
 ---
 layout: default
-categories: docs
+categories: media
 image: '2017-05-10-Liquid/'
+navorder: '04'
 ---
 
 # Liquid Media

@@ -1,7 +1,8 @@
 ---
 layout: default
-categories: docs
+categories: media
 image: '2017-03-01-Sawdust-media/'
+navorder: '03'
 ---
 
 # Sawdust mix

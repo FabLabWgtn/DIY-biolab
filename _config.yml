@@ -18,10 +18,12 @@ navigation: 1
 codeurl: 'http://fablabwgtn.github.io/DIY-biolab/'
 
 # Default categories (in order) to appear in the navigation
+# Note: Listing sections without any posts will cause a build error
 sections: [
-    ['docs', 'Making your media'],
-    ['oys', 'Experiments'],
-    ['post', 'Posts']
+    ['lab', 'Making your lab'],
+    ['procedure', 'Procedures'],
+    ['media', 'Making your media'],
+    ['exp', 'Experiments']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific

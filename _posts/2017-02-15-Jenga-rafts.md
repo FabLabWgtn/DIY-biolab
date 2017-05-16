@@ -1,7 +1,8 @@
 ---
 layout: default
-categories: oys
+categories: exp
 image: '2017-02-15-Jenga/'
+navorder: '08'
 ---
 
 # Jenga Rafts
