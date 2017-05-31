@@ -28,6 +28,6 @@ Cover loosely with lid. Cover lid with tinfoil, mark with autoclave tape.
 
 Load into pressure cooker with at least 2L tap water.
 
-[Sterilise]({{ site.baseurl }}/docs/Sterilisation.html) using the pressure cooker method.
+[Sterilise]({{ site.baseurl }}/procedure/Sterilisation.html) using the pressure cooker method.
 
 Pressure cook for one hour, then cool.

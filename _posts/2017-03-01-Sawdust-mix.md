@@ -45,4 +45,4 @@ Leave 1/8 bag of headspace, then put cotton wool plug in top of bag, wrap firmly
 
 Put in another oven bag to sterilise, as oven bags tear easily.  
 
-Sterilise using [pressure cooker or microwave]({{ site.baseurl }}/docs/Sterilisation.html) method.
+Sterilise using [pressure cooker or microwave]({{ site.baseurl }}/procedure/Sterilisation.html) method.

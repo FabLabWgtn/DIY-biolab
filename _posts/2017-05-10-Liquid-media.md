@@ -32,7 +32,7 @@ Loosely fit metal lids to jars.
 
 Wrap lids in tin foil and mark with autoclave tape.
 
-[Sterilise]({{ site.baseurl }}/docs/Sterilisation.html) using the pressure cooker method.  
+[Sterilise]({{ site.baseurl }}/procedure/Sterilisation.html) using the pressure cooker method.  
 Cool to room temperature before using.   
 
 `It might be possible to store jars at 4 degrees celsius for up to a week. But we haven't tested it yet`
