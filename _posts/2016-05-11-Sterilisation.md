@@ -1,7 +1,7 @@
 ---
 layout: default
 categories: procedure
-navorder: '10'
+navorder: '01'
 ---
 # Sterilisation in pressure cookers
 
