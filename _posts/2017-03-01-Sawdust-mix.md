@@ -27,17 +27,20 @@ _Ingredients:_
  - 1.5 cups of oat bran
  - 9.9g gypsum (calcium sulphate)
  - 9.9g raw sugar
+ - 1.1-1.4L of water
 
 _Optional enriched media:_  
 
  - Replace water with potato-dextrose broth.
 
 #### Method:
-Mix all ingredients together in 10 litre bucket, except for raw sugar.  
+Mix all ingredients together in 10 litre bucket, __except for raw sugar__.  
 
-Add raw sugar to the pyrex jug and dissolve in water.
+Add raw sugar to the pyrex jug and dissolve in water 1L of water.
 
-Add water-sugar mix to dry mix and add water until you can just squeeze drops of moisture out of the media when you squeeze a handful hard in your fist.  `note to self: give guide for roughly how much water to use`
+Add water-sugar mix to dry mix. Mix until everything is well combined.  
+
+Add additional water until you can just squeeze drops of moisture out of the media when you squeeze a handful hard in your fist.  
 
 Fill oven bags ¼ full with sawdust media, pack down slightly.  
 
